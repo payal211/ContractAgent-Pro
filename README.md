@@ -78,6 +78,24 @@ A comprehensive agentic AI system built with LangChain, RAG (Retrieval Augmented
 git clone https://github.com/payal211/ContractAgent-Pro.git
 cd ContractAgent-Pro
 ```
+2. **Create conda environment**
+```bash
+conda create -n contract-analyzer python=3.9
+conda activate contract-analyzer
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+#### Option 2: Using Virtual Environment
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/payal211/ContractAgent-Pro.git
+cd ContractAgent-Pro
+```
 
 2. **Create virtual environment**
 ```bash
