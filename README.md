@@ -1,0 +1,1 @@
+create a comprehensive legal contract analyzer using LangChain, RAG, local Llama, and LangGraph. This will be a full agentic AI system that can analyze contracts, extract key terms, identify risks, and provide recommendations.

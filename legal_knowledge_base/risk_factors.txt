@@ -1,0 +1,25 @@
+Common Contract Risk Factors:
+
+1. Financial Risks
+- Payment terms unclear
+- Penalty clauses excessive
+- Currency fluctuation exposure
+- Unlimited liability
+
+2. Legal Risks
+- Governing law conflicts
+- Jurisdiction issues
+- Compliance requirements
+- Regulatory changes
+
+3. Operational Risks
+- Performance standards unclear
+- Delivery timelines unrealistic
+- Quality requirements undefined
+- Force majeure provisions weak
+
+4. Termination Risks
+- Termination clauses unfavorable
+- Notice periods inadequate
+- Post-termination obligations
+- Asset return requirements

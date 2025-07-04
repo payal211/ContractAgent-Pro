@@ -1,0 +1,37 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on March 15, 2024, between 
+TechConsult Solutions LLC, a Delaware limited liability company ("Service Provider") 
+and MegaCorp Industries Inc., a California corporation ("Client").
+
+SERVICES:
+Service Provider agrees to provide software development and consulting services 
+including but not limited to system architecture, code development, and technical support.
+
+COMPENSATION:
+Client agrees to pay Service Provider $15,000 per month plus expenses. 
+Payment shall be made within 45 days of invoice receipt.
+
+TERM:
+This agreement shall commence on April 1, 2024, and continue indefinitely 
+until terminated by either party.
+
+TERMINATION:
+Either party may terminate this agreement for any reason with 10 days notice.
+
+LIABILITY:
+Service Provider shall be liable for all damages, losses, and expenses 
+resulting from breach of this agreement, including consequential damages.
+
+CONFIDENTIALITY:
+Both parties acknowledge they may have access to confidential information 
+and agree to maintain strict confidentiality.
+
+INTELLECTUAL PROPERTY:
+All work product created under this agreement shall belong to Service Provider.
+
+GOVERNING LAW:
+This agreement shall be governed by the laws of New York.
+
+DISPUTE RESOLUTION:
+Any disputes shall be resolved through binding arbitration in New York City.

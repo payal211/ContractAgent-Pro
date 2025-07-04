@@ -1,0 +1,36 @@
+ASSET PURCHASE AGREEMENT
+
+This Asset Purchase Agreement is made on January 15, 2024, between 
+Seller Corporation ("Seller") and Buyer LLC ("Buyer").
+
+ASSETS:
+Seller agrees to sell and Buyer agrees to purchase certain business assets 
+including equipment, inventory, customer lists, and intellectual property.
+
+PURCHASE PRICE:
+Total purchase price is $500,000, payable as follows:
+- $100,000 upon signing
+- $200,000 at closing
+- $200,000 in 12 monthly installments of $16,667
+
+CLOSING:
+Closing shall occur on or before March 1, 2024.
+
+REPRESENTATIONS:
+Seller represents that assets are free of liens and encumbrances.
+Buyer represents it has authority to enter this agreement.
+
+INDEMNIFICATION:
+Each party agrees to indemnify the other for breaches of representations.
+
+CONDITIONS:
+Closing is contingent upon:
+- Completion of due diligence
+- Approval of financing
+- Regulatory approvals
+
+GOVERNING LAW:
+This agreement shall be governed by Delaware law.
+
+DISPUTE RESOLUTION:
+Disputes shall be resolved through mediation, then arbitration if necessary.

@@ -1,0 +1,52 @@
+# Core LangChain components
+langchain
+langchain-community
+langchain-core
+langchain_chroma
+
+# LangGraph for workflow orchestration
+langgraph
+
+# Local LLM support (Ollama)
+ollama
+langchain-ollama
+
+# Vector database and embeddings
+chromadb
+sentence-transformers
+
+# Document processing
+pypdf
+python-docx
+python-pptx
+
+# Data processing
+pandas
+numpy
+
+# Web scraping (optional)
+beautifulsoup4
+requests
+
+# Utilities
+python-dotenv
+pydantic
+typing-extensions
+
+# Development and testing
+pytest
+pytest-asyncio
+black
+flake8
+
+# Optional: For advanced NLP features
+spacy
+nltk
+
+# Optional: For API endpoints
+fastapi
+uvicorn
+
+# Optional: For UI
+streamlit
+gradio

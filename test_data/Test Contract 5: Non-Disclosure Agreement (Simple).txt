@@ -1,0 +1,29 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("NDA") is entered into on December 1, 2023, 
+between InnovateTech Inc. ("Disclosing Party") and Consulting Partners LLC ("Receiving Party").
+
+CONFIDENTIAL INFORMATION:
+Disclosing Party may share technical specifications, business plans, 
+customer data, and other proprietary information.
+
+OBLIGATIONS:
+Receiving Party agrees to:
+- Maintain strict confidentiality
+- Use information solely for evaluation purposes
+- Not disclose to third parties
+
+TERM:
+This NDA remains in effect for 2 years from the date of signing.
+
+EXCEPTIONS:
+Obligations do not apply to information that:
+- Is publicly available
+- Was known prior to disclosure
+- Is independently developed
+
+RETURN OF MATERIALS:
+All materials must be returned within 30 days of request.
+
+GOVERNING LAW:
+This agreement is governed by California law.

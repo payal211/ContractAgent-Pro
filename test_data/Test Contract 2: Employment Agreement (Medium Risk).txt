@@ -1,0 +1,34 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement is made effective as of January 1, 2024, between 
+Innovative Tech Corp ("Company") and John Smith ("Employee").
+
+POSITION:
+Employee is hired as Senior Software Engineer reporting to the CTO.
+
+COMPENSATION:
+Employee shall receive an annual salary of $120,000, payable bi-weekly.
+Employee is eligible for annual performance bonus up to 20% of base salary.
+
+BENEFITS:
+Company will provide health insurance, dental coverage, and 401(k) matching.
+
+TERM:
+This is an at-will employment agreement with no specified end date.
+
+TERMINATION:
+Either party may terminate employment with or without cause upon 2 weeks notice.
+
+CONFIDENTIALITY:
+Employee agrees to maintain confidentiality of all proprietary information 
+during and after employment.
+
+NON-COMPETE:
+Employee agrees not to work for direct competitors for 12 months after termination 
+within a 50-mile radius.
+
+INTELLECTUAL PROPERTY:
+All inventions, patents, and work product created during employment belong to Company.
+
+GOVERNING LAW:
+This agreement is governed by California employment law.

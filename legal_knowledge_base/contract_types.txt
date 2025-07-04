@@ -1,0 +1,26 @@
+Contract Types and Classifications:
+
+1. Service Agreements
+- Professional services contracts
+- Consulting agreements
+- Maintenance contracts
+
+2. Sales Contracts
+- Purchase agreements
+- Supply contracts
+- Distribution agreements
+
+3. Employment Contracts
+- Employment agreements
+- Non-disclosure agreements
+- Non-compete agreements
+
+4. Real Estate Contracts
+- Lease agreements
+- Purchase contracts
+- Property management agreements
+
+5. Technology Contracts
+- Software licensing
+- SaaS agreements
+- Development contracts
