@@ -108,6 +108,10 @@ python main.py  # This will create the legal knowledge base
 ```bash
 uvicorn api:app --reload --host 0.0.0.0 --port 8000
 ```
+or 
+```bash
+python api.py
+```
 
 2. **Launch the Streamlit UI**
 ```bash
